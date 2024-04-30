@@ -1,5 +1,5 @@
 import streamlit as st
-from Gopal_Notes_diabeties import show_precautions_for_diabetic, show_precautions_for_non_diabetic
+
 
 def predict_diabetes(diabetes_model):
     st.header('', divider='rainbow')
